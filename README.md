@@ -1,73 +1,62 @@
-<div align="center">
+```
+ __  __       _     _ _   
+|  \/  | ___ | |__ (_) |_ 
+| |\/| |/ _ \| '_ \| | __|
+| |  | | (_) | | | | | |_ 
+|_|  |_|\___/|_| |_|_|\__|
+```
 
-# `<mohit.anilkumar.gupta />`
-
-**Full-Stack Developer · MERN Stack · Open to Collabs**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mellifluousguy.is--a.dev-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://mellifluousguy.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-mohitdeveloper@gmail.com-378ADD?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitdeveloper@gmail.com)
-
-</div>
-
----
-
-### 👋 About Me
-
-- 🔭 Currently building **MERN-based projects**
-- 🌱 Learning **MongoDB & Express.js**
-- 👯 Looking to collaborate on **out-of-the-box projects**
-- 🤝 Seeking guidance on **fullstack development**
-- 💬 Ask me about **React, Node.js, Tailwind CSS, TypeScript, JavaScript**
-- ⚡ Fun fact: *I think I have a bug of being a weirdo — needs a senior dev to debug.*
-
----
-
-### 🛠 Tech Stack
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![SASS](https://skillicons.dev/icons?i=sass)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-**Backend & Database**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-**Tools & Design**
-
-![Git](https://skillicons.dev/icons?i=git)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Postman](https://skillicons.dev/icons?i=postman)
-[![Chart.js](https://cdn.simpleicons.org/chartdotjs/FF6384)](https://www.chartjs.org/)
-[![Framer](https://cdn.simpleicons.org/framer)](https://www.framer.com/)
+```bash
+$ cat whoami.json
+```
+```json
+{
+  "name"      : "Mohit Anilkumar Gupta",
+  "role"      : "Full-Stack Developer · MERN Stack",
+  "building"  : "MERN-based projects",
+  "learning"  : "MongoDB & Express.js",
+  "open_to"   : "out-of-the-box collabs",
+  "portfolio" : "https://mellifluousguy.is-a.dev",
+  "email"     : "mohitdeveloper@gmail.com",
+  "fun_fact"  : "got a weirdo bug — needs a senior dev to debug it 🐛"
+}
+```
 
 ---
 
-### 📊 GitHub Stats
+```bash
+$ ls ./skills --group
+```
 
-<div align="center">
+**frontend/**
+&nbsp;&nbsp;`React` &nbsp;`Next.js` &nbsp;`TypeScript` &nbsp;`JavaScript` &nbsp;`Tailwind CSS` &nbsp;`SASS` &nbsp;`HTML5` &nbsp;`CSS3`
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mellifluousguy&theme=tokyonight_duo&hide_border=true&background=00000000)](https://github.com/Mellifluousguy)
+**backend/**
+&nbsp;&nbsp;`Node.js` &nbsp;`Express.js` &nbsp;`MongoDB`
 
-</div>
+**tooling/**
+&nbsp;&nbsp;`Git` &nbsp;`Figma` &nbsp;`Postman` &nbsp;`Framer` &nbsp;`Chart.js`
 
 ---
 
-### 🌐 Connect with Me
+```bash
+$ git log --oneline --stat
+```
 
-<div align="left">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mellifluousguy&theme=dark&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=94a3b8&dates=555555&currStreakNum=f8fafc&sideNums=f8fafc)](https://github.com/Mellifluousguy)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mellifluousguy-181717?style=flat-square&logo=github)](https://github.com/Mellifluousguy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mellifluousguy-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mellifluousguy)
-[![Instagram](https://img.shields.io/badge/Instagram-mellifluousguy__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mellifluousguy_)
-[![Twitter](https://img.shields.io/badge/Twitter-mellifluousguy__-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mellifluousguy_)
+---
 
-</div>
+```bash
+$ cat ./links.sh
+```
+
+[![GitHub](https://img.shields.io/badge/github-Mellifluousguy-4ade80?style=flat-square&logo=github&logoColor=0d0d0d&labelColor=0d0d0d&color=4ade80)](https://github.com/Mellifluousguy)
+[![LinkedIn](https://img.shields.io/badge/linkedin-mellifluousguy-7dd3fc?style=flat-square&logo=linkedin&logoColor=0d0d0d&labelColor=0d0d0d&color=7dd3fc)](https://linkedin.com/in/mellifluousguy)
+[![Instagram](https://img.shields.io/badge/instagram-mellifluousguy__-fbbf24?style=flat-square&logo=instagram&logoColor=0d0d0d&labelColor=0d0d0d&color=fbbf24)](https://instagram.com/mellifluousguy_)
+[![Twitter](https://img.shields.io/badge/twitter-mellifluousguy__-4ade80?style=flat-square&logo=twitter&logoColor=0d0d0d&labelColor=0d0d0d&color=4ade80)](https://twitter.com/mellifluousguy_)
+[![Portfolio](https://img.shields.io/badge/portfolio-mellifluousguy.is--a.dev-7dd3fc?style=flat-square&logo=vercel&logoColor=0d0d0d&labelColor=0d0d0d&color=7dd3fc)](https://mellifluousguy.is-a.dev)
+
+---
+
+<sub>mohit@dev:~$ █</sub>
