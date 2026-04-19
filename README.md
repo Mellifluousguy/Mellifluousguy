@@ -1,33 +1,73 @@
-# Hi 👋, I'm Mohit Anilkumar Gupta
+<div align="center">
 
-### A passionate developer
+# `<mohit.anilkumar.gupta />`
 
-- 🔭 I'm currently working on **MERN based projects**
+**Full-Stack Developer · MERN Stack · Open to Collabs**
 
-- 🌱 I'm currently learning **Mongo DB & Express.js**
+[![Portfolio](https://img.shields.io/badge/Portfolio-mellifluousguy.is--a.dev-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://mellifluousguy.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-mohitdeveloper@gmail.com-378ADD?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitdeveloper@gmail.com)
 
-- 👯 I'm looking to collaborate on **Out of the box projects**
+</div>
 
-- 🤝 I'm looking for help with **Learning Fullstack Development**
+---
 
-- 💬 Ask me about **React, Node.js, Tailwind CSS, Typescript, Javascript**
+### 👋 About Me
 
-- 📫 How to reach me **mohitdeveloper@gmail.com**
+- 🔭 Currently building **MERN-based projects**
+- 🌱 Learning **MongoDB & Express.js**
+- 👯 Looking to collaborate on **out-of-the-box projects**
+- 🤝 Seeking guidance on **fullstack development**
+- 💬 Ask me about **React, Node.js, Tailwind CSS, TypeScript, JavaScript**
+- ⚡ Fun fact: *I think I have a bug of being a weirdo — needs a senior dev to debug.*
 
-- ⚡ Fun fact **I think I have a bug of being wierdo which need a senior developer.**
+---
 
-- 👨‍💻 All of my projects are available at **[https://mellifluousguy.is-a.dev](https://mellifluousguy.is-a.dev)**
+### 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Mellifluousguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mellifluousguy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mellifluousguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mellifluousguy" height="30" width="40" /></a>
-<a href="https://instagram.com/mellifluousguy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mellifluousguy_" height="30" width="40" /></a>
-<a href="https://twitter.com/mellifluousguy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mellifluousguy" height="30" width="40" /></a>
-</p>
+**Frontend**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![SASS](https://skillicons.dev/icons?i=sass)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mellifluousguy&" alt="Mellifluousguy" /></p>
+**Backend & Database**
 
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+**Tools & Design**
+
+![Git](https://skillicons.dev/icons?i=git)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Postman](https://skillicons.dev/icons?i=postman)
+[![Chart.js](https://cdn.simpleicons.org/chartdotjs/FF6384)](https://www.chartjs.org/)
+[![Framer](https://cdn.simpleicons.org/framer)](https://www.framer.com/)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mellifluousguy&theme=tokyonight_duo&hide_border=true&background=00000000)](https://github.com/Mellifluousguy)
+
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mellifluousguy-181717?style=flat-square&logo=github)](https://github.com/Mellifluousguy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mellifluousguy-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mellifluousguy)
+[![Instagram](https://img.shields.io/badge/Instagram-mellifluousguy__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mellifluousguy_)
+[![Twitter](https://img.shields.io/badge/Twitter-mellifluousguy__-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mellifluousguy_)
+
+</div>
