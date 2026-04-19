@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated typing name -->
 <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=40&duration=3000&pause=1000&color=8B7355&center=true&vCenter=true&width=700&height=90&lines=Mohit+Anilkumar+Gupta;Full-Stack+Developer;MERN+Stack+%7C+Creative+Builder" alt="Typing SVG" />
 
 <br/>
@@ -10,8 +9,7 @@
 
 <br/>
 
-<!-- Animated wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=60&section=header&fontColor=faf9f6&fontSize=0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=60&section=header&animation=fadeIn" />
 
 </div>
 
@@ -34,17 +32,6 @@
 &nbsp;&nbsp;**ask me about** &nbsp;&nbsp;React · Node.js · TypeScript · Tailwind CSS · JavaScript
 
 &nbsp;&nbsp;**fun fact** &nbsp;&nbsp;*"got a weirdo bug — needs a senior dev to debug"*
-
----
-
-<!-- Animated skill ticker -->
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,nodejs,tailwind&theme=light&perline=9" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,express,git,figma,vercel,netlify,postman&theme=light&perline=9" />
-
-</div>
 
 ---
 
@@ -87,10 +74,8 @@
 
 <div align="center">
 
-<!-- Animated streak stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mellifluousguy&theme=elegant&hide_border=true&background=faf9f6&stroke=ede9e0&ring=8b7355&fire=8b7355&currStreakLabel=8b7355&sideLabels=a89f8c&dates=c4bfb5&currStreakNum=1a1814&sideNums=1a1814)](https://github.com/Mellifluousguy)
 
-<!-- Animated GitHub stats -->
 [![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mellifluousguy&show_icons=true&theme=swift&hide_border=true&bg_color=faf9f6&title_color=8b7355&icon_color=8b7355&text_color=6b6459)](https://github.com/Mellifluousguy)
 
 </div>
@@ -106,7 +91,6 @@
 
 <br/>
 
-<!-- Animated footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=60&section=footer&animation=fadeIn" />
 
 <sub>@mellifluousguy · pune, india &nbsp;·&nbsp; <em>"got a weirdo bug — needs a senior dev to debug"</em></sub>
