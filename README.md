@@ -93,6 +93,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=60&section=footer&animation=fadeIn" />
 
-<sub>@mellifluousguy · pune, india &nbsp;·&nbsp; <em>"got a weirdo bug — needs a senior dev to debug"</em></sub>
+<sub>@mellifluousguy · **Mumbai, India** &nbsp;·&nbsp; <em>"got a weirdo bug — needs a senior dev to debug"</em></sub>
 
 </div>
