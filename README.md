@@ -1,15 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=38&duration=3000&pause=1000&color=8B7355&center=true&vCenter=true&width=600&height=80&lines=Mohit+Anilkumar+Gupta" alt="Name" />
+<!-- Animated typing name -->
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=40&duration=3000&pause=1000&color=8B7355&center=true&vCenter=true&width=700&height=90&lines=Mohit+Anilkumar+Gupta;Full-Stack+Developer;MERN+Stack+%7C+Creative+Builder" alt="Typing SVG" />
+
+<br/>
 
 *A passionate developer building on the MERN stack —*
 *one out-of-the-box project at a time.*
 
-&nbsp;
+<br/>
+
+<!-- Animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=60&section=header&fontColor=faf9f6&fontSize=0&animation=fadeIn" />
+
+</div>
+
+---
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/→_mellifluousguy.is--a.dev-f0ece3?style=flat-square&labelColor=f0ece3&color=f0ece3&logoColor=5c5144)](https://mellifluousguy.is-a.dev)&nbsp;
 [![Email](https://img.shields.io/badge/→_mohitdeveloper@gmail.com-f0ece3?style=flat-square&labelColor=f0ece3&color=f0ece3)](mailto:mohitdeveloper@gmail.com)&nbsp;
-![Open to Collaborate](https://img.shields.io/badge/●_open_to_collaborate-e8f0e8?style=flat-square&labelColor=e8f0e8&color=e8f0e8)
+![Status](https://img.shields.io/badge/●_open_to_collaborate-e8f0e8?style=flat-square&labelColor=e8f0e8&color=e8f0e8)
 
 </div>
 
@@ -22,6 +34,17 @@
 &nbsp;&nbsp;**ask me about** &nbsp;&nbsp;React · Node.js · TypeScript · Tailwind CSS · JavaScript
 
 &nbsp;&nbsp;**fun fact** &nbsp;&nbsp;*"got a weirdo bug — needs a senior dev to debug"*
+
+---
+
+<!-- Animated skill ticker -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,nodejs,tailwind&theme=light&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,git,figma,vercel,netlify,postman&theme=light&perline=9" />
+
+</div>
 
 ---
 
@@ -41,6 +64,7 @@
 ### `database & backend`
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-e8f0e8?style=flat-square&logo=mongodb&logoColor=3a5c3a)
+![Express.js](https://img.shields.io/badge/Express.js-e8f0e8?style=flat-square&logo=express&logoColor=3a5c3a)
 ![REST API](https://img.shields.io/badge/REST_API-e8f0e8?style=flat-square&logo=fastapi&logoColor=3a5c3a)
 
 ### `animation & design`
@@ -63,7 +87,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mellifluousguy&theme=elegant&hide_border=true)](https://github.com/Mellifluousguy)
+<!-- Animated streak stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mellifluousguy&theme=elegant&hide_border=true&background=faf9f6&stroke=ede9e0&ring=8b7355&fire=8b7355&currStreakLabel=8b7355&sideLabels=a89f8c&dates=c4bfb5&currStreakNum=1a1814&sideNums=1a1814)](https://github.com/Mellifluousguy)
+
+<!-- Animated GitHub stats -->
+[![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mellifluousguy&show_icons=true&theme=swift&hide_border=true&bg_color=faf9f6&title_color=8b7355&icon_color=8b7355&text_color=6b6459)](https://github.com/Mellifluousguy)
 
 </div>
 
@@ -76,6 +104,11 @@
 [![Instagram](https://img.shields.io/badge/→_instagram-e8eaf5?style=flat-square&logo=instagram&logoColor=3a3f6b)](https://instagram.com/mellifluousguy_)&nbsp;
 [![Twitter](https://img.shields.io/badge/→_twitter-f5eaf0?style=flat-square&logo=twitter&logoColor=5c3a4f)](https://twitter.com/mellifluousguy_)
 
-<sub>@mellifluousguy · Mumbai, India</sub>
+<br/>
+
+<!-- Animated footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=60&section=footer&animation=fadeIn" />
+
+<sub>@mellifluousguy · pune, india &nbsp;·&nbsp; <em>"got a weirdo bug — needs a senior dev to debug"</em></sub>
 
 </div>
