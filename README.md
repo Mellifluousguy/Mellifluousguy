@@ -76,6 +76,6 @@
 [![Instagram](https://img.shields.io/badge/→_instagram-e8eaf5?style=flat-square&logo=instagram&logoColor=3a3f6b)](https://instagram.com/mellifluousguy_)&nbsp;
 [![Twitter](https://img.shields.io/badge/→_twitter-f5eaf0?style=flat-square&logo=twitter&logoColor=5c3a4f)](https://twitter.com/mellifluousguy_)
 
-<sub>@mellifluousguy · pune, india</sub>
+<sub>@mellifluousguy · Mumbai, India</sub>
 
 </div>
