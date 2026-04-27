@@ -25,17 +25,17 @@
 
 ---
 
-&nbsp;&nbsp;**currently building** &nbsp;&nbsp;MERN-based projects, learning MongoDB & Express.js
+&nbsp;&nbsp;**Currently building** &nbsp;&nbsp;MERN-based projects, learning MongoDB & Express.js
 
-&nbsp;&nbsp;**looking to collab on** &nbsp;&nbsp;out-of-the-box, creative projects
+&nbsp;&nbsp;**Looking to collab on** &nbsp;&nbsp;out-of-the-box, creative projects
 
-&nbsp;&nbsp;**ask me about** &nbsp;&nbsp;React · Node.js · TypeScript · Tailwind CSS · JavaScript
+&nbsp;&nbsp;**Ask me about** &nbsp;&nbsp;React · Node.js · TypeScript · Tailwind CSS · JavaScript
 
-&nbsp;&nbsp;**fun fact** &nbsp;&nbsp;*"got a weirdo bug — needs a senior dev to debug"*
+&nbsp;&nbsp;**Fun fact** &nbsp;&nbsp;*"got a weirdo bug — needs a senior dev to debug"*
 
 ---
 
-### `languages & frameworks`
+### `Languages & Frameworks`
 
 ![HTML](https://img.shields.io/badge/HTML-f0ece3?style=flat-square&logo=html5&logoColor=5c5144)
 ![CSS](https://img.shields.io/badge/CSS-f0ece3?style=flat-square&logo=css3&logoColor=5c5144)
@@ -48,19 +48,19 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-f0ece3?style=flat-square&logo=tailwindcss&logoColor=5c5144)
 ![AOS](https://img.shields.io/badge/AOS-f0ece3?style=flat-square&logoColor=5c5144)
 
-### `database & backend`
+### `Database & Backend`
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-e8f0e8?style=flat-square&logo=mongodb&logoColor=3a5c3a)
 ![Express.js](https://img.shields.io/badge/Express.js-e8f0e8?style=flat-square&logo=express&logoColor=3a5c3a)
 ![REST API](https://img.shields.io/badge/REST_API-e8f0e8?style=flat-square&logo=fastapi&logoColor=3a5c3a)
 
-### `animation & design`
+### `Animation & Design`
 
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-e8eaf5?style=flat-square&logo=framer&logoColor=3a3f6b)
 ![Figma](https://img.shields.io/badge/Figma-e8eaf5?style=flat-square&logo=figma&logoColor=3a3f6b)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-e8eaf5?style=flat-square&logoColor=3a3f6b)
 
-### `platforms & hosting`
+### `Platforms & Hosting`
 
 ![Shopify](https://img.shields.io/badge/Shopify-f5eaf0?style=flat-square&logo=shopify&logoColor=5c3a4f)
 ![Webflow](https://img.shields.io/badge/Webflow-f5eaf0?style=flat-square&logo=webflow&logoColor=5c3a4f)
