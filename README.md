@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=60&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=80&section=header&animation=fadeIn" />
 
 </div>
 
@@ -91,7 +91,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=60&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B7355&height=80&section=footer&animation=fadeIn" />
 
 <sub>@mellifluousguy · **Mumbai, India** &nbsp;·&nbsp; <em>"got a weirdo bug — needs a senior dev to debug"</em></sub>
 
